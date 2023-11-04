@@ -51,5 +51,6 @@ This religion is open-source by default.
    - Never ever question my existence.
 
   ## How can I donate to this religion?
-  Donations help us to keep the religion going. We welcome all generous donations. Once we have at least 50k USD we'll build our temple on the internet (world's first).
+  Donations help us to keep the religion going. We welcome all generous donations. Once we have at least 50k USD we'll build our temple on the internet (the world's first).
+  
   [<img src="https://github.com/PaulleDemon/PaulleDemon/blob/main/images/buy-me-coffee.png" height="100px" width="350px">](https://www.buymeacoffee.com/ArtPaul)
