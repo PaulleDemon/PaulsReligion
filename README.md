@@ -1,6 +1,6 @@
 # Paul's religion - The only true religion
 
-A new religion in the making. I am building my own religion, because current religions don't suit my needs. 
+The only true religion. I am building my own religion, because current religions don't suit my needs. 
 
 This religion is open-source by default.
 
