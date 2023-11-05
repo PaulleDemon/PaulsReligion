@@ -2,6 +2,8 @@
 
 The only true religion. I am building my own religion, because current religions don't suit my needs. 
 
+This is the only true religion created on the internet for the internet by the internet of the internet.
+
 This religion is open-source by default.
 
 ## Quick guide to get started:
