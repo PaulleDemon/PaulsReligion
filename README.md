@@ -4,7 +4,7 @@ The only true religion. I am building my own religion, because current religions
 
 This is the only true religion created on the internet—for the internet, by the internet, and of the internet.
 
-This religion is open-source by default.
+This religion is open-source by default and licensed under CC0-1.0 license.
 
 ## Quick guide to get started:
 * To be a follower of this religion you must star this repository.
